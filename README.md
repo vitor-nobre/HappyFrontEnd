@@ -7,5 +7,5 @@ Aplicação que cadastra e lista orfanatos que querem receber visitas de pessoas
 Instruções para executar o projeto:
 
 1. Acesse o diretório e execute o comando `yarn install` para instalar as dependências do projeto.
-2. Em seguida, ainda no diretório do projeto execute o comando `yarn start` para executar o projeto.
+2. Em seguida, ainda no diretório do projeto execute o comando `yarn start` para levantar o projeto.
 3. Acesse em seu navegador a seguinte url `http://localhost:3000` para navegar na aplicação
